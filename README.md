@@ -1,1 +1,2 @@
 # Embedded-Night-Vision-System-for-Pedestrian-Detection
+Developed an Embedded Night-Vision System for Pedestrian Detection using Python and the Tkinter GUI library. Integrated YOLOv2 object detection model and HAAR cascade with AdaBoost for robust pedestrian detection. Implemented image processing techniques like gamma correction, histogram equalization, and adaptive histogram equalization (CLAHE) for enhanced night vision. The system allows users to upload images, detect pedestrians using YOLOv2, and perform pedestrian detection with HAAR cascade and AdaBoost fusion.
